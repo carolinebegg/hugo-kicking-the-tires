@@ -2,7 +2,7 @@
 
 ## CIS 3500 Homework #1
 
-PART III: Practice Using Hugo (hugo-kicking-the-tires)
+### PART III: Practice Using Hugo (hugo-kicking-the-tires)
 
 Summary of PART III Tasks + Additional Practice
 
