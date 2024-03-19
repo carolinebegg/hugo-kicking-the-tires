@@ -1,10 +1,8 @@
 +++
-title = 'About'
+title = 'About Me!'
 date = 2024-03-19T13:33:31-04:00
 draft = false
 +++
-
-My Biography
 
 My name is Caroline Begg, and I am a sophomore in the M&T program (dual degree between Wharton and Penn Engineering) studying CIS and Finance/Business Analytics. I am originally from Trumbull, CT. At home, I live with my parents and my four pets (two dogs and two cats!); my older sister Kay lives in Dallas, TX.
 
