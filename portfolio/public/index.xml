@@ -6,6 +6,28 @@
     <description>Recent content on Caroline&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 13:47:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 19 Mar 2024 13:47:13 -0400</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Contact Information&#xA;Name: Caroline Begg Penn Email: cbegg@wharton.upenn.edu, cbegg@seas.upenn.edu Personal Email: carolinembegg@gmail.com Phone Number: (203) 400-0930</description>
+    </item>
+    <item>
+      <title>Resumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 19 Mar 2024 13:40:14 -0400</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Education&#xA;University of Pennsylvania, Jerome Fisher Program in Management and Technology&#xA;Major: Computer Science, Finance/Business Analytics</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 19 Mar 2024 13:33:31 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>This is my About page.</description>
+    </item>
   </channel>
 </rss>
