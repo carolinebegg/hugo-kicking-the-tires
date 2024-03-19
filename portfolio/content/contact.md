@@ -1,15 +1,13 @@
 +++
-title = 'Contact'
+title = 'Contact Information'
 date = 2024-03-19T13:47:13-04:00
 draft = false
 +++
 
-Contact Information
+**Name**: Caroline Begg
 
-Name: Caroline Begg
+**Penn Email**: <cbegg@wharton.upenn.edu>, <cbegg@seas.upenn.edu>
 
-Penn Email: <cbegg@wharton.upenn.edu>, <cbegg@seas.upenn.edu>
+**Personal Email**: <carolinembegg@gmail.com>
 
-Personal Email: <carolinembegg@gmail.com>
-
-Phone Number: (203) 400-0930
+**Phone Number**: (203) 400-0930
